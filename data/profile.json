@@ -1,0 +1,63 @@
+{
+    "name": "Fatimah Azzahra - Electronic Engineering",
+    "description": "Fresh Graduate in Electronics Engineering with interests in industrial automation, instrumentation, control systems, and IoT technologies. Skilled in microcontroller programming, electronic circuit design, troubleshooting, and system analysis through academic projects and internship experience. Passionate about learning new technologies, solving technical challenges, and developing practical engineering solutions that create meaningful impact.",
+    "profileImage": "images/zahraw.jpeg",
+    "email": "fatimahazzahra241204@gmail.com",
+    "phone": "+62 (895) 3811-68986",
+    "socialMedia": [
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/zzaahhrraa_._?igsh=MW9mNmZwdGswbGcxMQ%3D%3D&utm_source=qr"
+        },
+        {
+            "platform": "Twitter",
+            "url": "https://x.com/parkjmnnnnnn?s=11"
+        },
+        {
+            "platform": "Tiktok",
+            "url": "https://www.tiktok.com/@zahraaaawll?is_from_webapp=1&sender_device=pc"
+        }
+    ],
+    "cv": {
+        "text": "Download CV",
+        "file": "docs/zahra.pdf",
+        "icon": "fas fa-file-pdf"
+    },
+    "skills": [
+        {
+            "name": "Internet of Things",
+            "icon": "fas fa-wifi",
+            "level": 73
+        },
+        {
+            "name": "Hardware Design",
+            "icon": "fas fa-desktop",
+            "level": 70
+        },
+        {
+            "name": "Hardware Programming",
+            "icon": "fas fa-c",
+            "level": 70
+        },
+        {
+            "name": "Web Programming",
+            "icon": "fab fa-js",
+            "level": 70
+        },
+        {
+            "name": "Project Management",
+            "icon": "fas fa-list-check",
+            "level": 30
+        },
+        {
+            "name": "Academic Writing",
+            "icon": "fas fa-pen",
+            "level": 30
+        },
+        {
+            "name": "Foreign Languages",
+            "icon": "fas fa-language",
+            "level": 30
+        }
+    ]
+}
