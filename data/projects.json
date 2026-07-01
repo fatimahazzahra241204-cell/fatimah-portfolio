@@ -1,90 +1,12 @@
 [
-    {
-        "title": "FPGA-based System for Continuous Vital Signs Monitoring",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project1.png",
-        "link": "https://example.com/solar-water"
-    },
-    {
-        "title": "SoC-based System for Non Contact Vital Signs Measurement",
-        "year": "2021",
-        "partner": "Tech Manufacturing Inc.",
-        "role": "Project Lead",
-        "description": "Implemented robotic automation in assembly line, increasing production efficiency by 30% while reducing defects by 25%.",
-        "image": "images/project2.png",
-        "link": "https://example.com/assembly-optimization"
-    },
-	{
-        "title": "Contactless Vital Signs Kiosk in Intelligent Building",
-        "year": "2021",
-        "partner": "Tech Manufacturing Inc.",
-        "role": "Project Lead",
-        "description": "Implemented robotic automation in assembly line, increasing production efficiency by 30% while reducing defects by 25%.",
-        "image": "images/project3.png",
-        "link": "https://example.com/assembly-optimization"
-    },
-    {
-        "title": "Smart Irrigation",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project4.png",
-        "link": "https://example.com/solar-water"
-    },
-	{
-        "title": "KOICA-Silla-UMN Indstrial 4.0",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project5.png",
-        "link": "https://example.com/solar-water"
-    },
-	{
-        "title": "Matching Fund: iSense",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project6.png",
-        "link": "https://example.com/solar-water"
-    },
-	{
-        "title": "Matching Fund:RAMA",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project7.png",
-        "link": "https://example.com/solar-water"
-    },
-	{
-        "title": "Competitive Fund: PiDaQ",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project8.png",
-        "link": "https://example.com/solar-water"
-    },
-	{
-        "title": "Penelitian Tesis Magister: Activity Recognition",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project9.png",
-        "link": "https://example.com/solar-water"
-	}
+  {
+    "title": "Design and Development of an Internet of Things (IoT)-Based Automatic Watering Monitoring and Control System for Napa Cabbage Plants with Scheduling Features and Manual Control Using the Blynk Application",
+    "year": "2026",
+    "fund": "Rp4.103.000",
+    "partner": "Mr. Suyanto (Napa Cabbage Plantation Owner)",
+    "role": "Project Executors",
+    "description": "Designed and developed an Internet of Things (IoT)-based smart irrigation monitoring and control system for napa cabbage cultivation. The prototype utilizes an ESP32 microcontroller integrated with six capacitive soil moisture sensors and a DHT22 temperature and humidity sensor to continuously monitor environmental conditions in real time. Based on configurable soil moisture thresholds, the system automatically controls a 12V DC water pump and multiple solenoid valves to deliver water efficiently across the planting area. The irrigation process can also be scheduled automatically and manually overridden through the Blynk mobile application, enabling users to remotely monitor sensor data, control watering operations, and manage irrigation schedules from anywhere. This project demonstrates the implementation of embedded systems, sensor integration, wireless communication, and IoT technologies to improve irrigation efficiency, reduce water consumption, minimize manual labor, and support healthier crop growth through intelligent and data-driven water management.",
+    "image": "images/perkebunan.jpeg",
+    "link": "#"
+  }
 ]
