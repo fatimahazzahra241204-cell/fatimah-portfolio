@@ -27,22 +27,22 @@
         {
             "name": "Internet of Things",
             "icon": "fas fa-wifi",
-            "level": 73
+            "level": 40
         },
         {
             "name": "Hardware Design",
             "icon": "fas fa-desktop",
-            "level": 70
+            "level": 40
         },
         {
             "name": "Hardware Programming",
             "icon": "fas fa-c",
-            "level": 70
+            "level": 20
         },
         {
             "name": "Web Programming",
             "icon": "fab fa-js",
-            "level": 70
+            "level": 30
         },
         {
             "name": "Project Management",
