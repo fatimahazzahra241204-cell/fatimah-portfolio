@@ -1,0 +1,17 @@
+[
+    {
+        "company": "CV SARANA CIPTA MEDIA",
+		"logo":"images/sarana.jpg",
+        "position": "Technical Assistant",
+        "year": "Aug - Dec 2025",
+        "description": "Assisted in the production, assembly, testing, and quality control of educational training kits for vocational high schools (SMK). Involved in electronic circuit assembly, component installation, troubleshooting, and product inspection to ensure functionality and compliance with learning objectives."
+    }
+]
+
+{
+    "title": "Academic Tutor (Elementary & Junior High)",
+	"logo":"images/bimbel.pnngeg",
+    "company": "Bimbel Champions",
+    "period": "Sep 2025 - Mar 2026",
+    "description": "Delivered comprehensive tutoring across all core subjects for elementary students (Grades 1–6) and junior high students (Grade 7). Developed tailored learning plans to simplify complex concepts, improved students' academic confidence, and systematically monitored learning progress to ensure continuous academic growth."
+  }
